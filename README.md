@@ -20,6 +20,7 @@ This libary is using ffmpeg software to convert videos.
 > [!NOTE]
 > I will not pay for a certificate, so Windows will mark this as 'unsafe'
 
-Download this project: **[Download](https://github.com/MauriceX24/jadvc/archive/refs/heads/main.zip)**
+Download this project: **[Download Project](https://github.com/MauriceX24/jadvc/archive/refs/heads/main.zip)**
+Download the setup: **[Download Setup](https://github.com/MauriceX24/jadvc/releases)**
 
     
