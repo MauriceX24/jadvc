@@ -1,5 +1,7 @@
 
 ## 📌 JADVC - Video Converter
+![GitHub last commit](https://img.shields.io/github/last-commit/MauriceX24/jadvc)
+![GitHub Release](https://img.shields.io/github/v/release/MauriceX24/jadvc)
 
 **You can convert videos from**
 `.webm, .avi, .wmv, .mov, .h264, .mp4` **to** `.mp4`.
