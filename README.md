@@ -11,7 +11,9 @@ https://www.nrecosite.com/video_converter_net.aspx
 
 This libary is using ffmpeg software to convert videos.
 
+## 🔮 Preview
 
+![img](https://share.cheeseburger.zip/ibLa3HDR.gif)
 
 ## 💾 Installation
 
