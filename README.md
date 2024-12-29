@@ -3,6 +3,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/MauriceX24/jadvc)
 ![GitHub Release](https://img.shields.io/github/v/release/MauriceX24/jadvc)
 
+![NuGet Version](https://img.shields.io/nuget/v/NReco.VideoConverter?label=NReco%20Version&logo=nuget)
+![Static Badge](https://img.shields.io/badge/NReco%20Active-1.2.1-8A2BE2)
+
 **You can convert videos from**
 `.webm, .avi, .wmv, .mov, .h264, .mp4` **to** `.mp4`.
 ## ⚙ Frameworks
