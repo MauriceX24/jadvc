@@ -13,7 +13,10 @@ This libary is using ffmpeg software to convert videos.
 
 ## 🔮 Preview
 
-![img](https://share.cheeseburger.zip/ibLa3HDR.gif)
+- ![img](http://share.cheeseburger.zip/3noBkq7W)
+- ![img](http://share.cheeseburger.zip/pgEHwDcc)
+- ![img](http://share.cheeseburger.zip/U1d2JFWp)
+- ![img](http://share.cheeseburger.zip/Wlcrjchb)
 
 ## 💾 Installation
 
@@ -21,6 +24,7 @@ This libary is using ffmpeg software to convert videos.
 > I will not pay for a certificate, so Windows will mark this as 'unsafe'
 
 Download this project: **[Download Project](https://github.com/MauriceX24/jadvc/archive/refs/heads/main.zip)**
+
 Download the setup: **[Download Setup](https://github.com/MauriceX24/jadvc/releases)**
 
     
