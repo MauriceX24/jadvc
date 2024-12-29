@@ -26,7 +26,8 @@ This libary is using ffmpeg software to convert videos.
 ## 💾 Installation
 
 > [!NOTE]
-> I will not pay for a certificate, so Windows will mark this as 'unsafe'
+> I will not pay for a certificate, so Windows will mark this as 'unsafe'.
+>  [VirusTotal Details](https://www.virustotal.com/gui/file/5d184bfcf7abc9afd50cff0f6daed0ab7ccfd301381e9936a9a18fbbf7f63dd0)
 
 Download this project: **[Download Project](https://github.com/MauriceX24/jadvc/archive/refs/heads/main.zip)**
 
